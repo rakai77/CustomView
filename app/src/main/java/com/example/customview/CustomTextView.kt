@@ -42,5 +42,4 @@ class CustomTextView @JvmOverloads constructor(
         textSize = 15f
         setTextColor(Color.RED)
     }
-
 }
